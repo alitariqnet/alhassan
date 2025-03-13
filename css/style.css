@@ -1,0 +1,14 @@
+body{
+    background-color: tomato;
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 400;
+    color:yellow
+}
+
+#content{
+    padding:10%;
+    border: 2px dashed black;
+    border-radius: 15px;
+    border-color: rgb(2, 53, 53);
+}
